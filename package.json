@@ -1,0 +1,14 @@
+{
+  "name": "singleflight",
+  "version": "1.0.0",
+  "description": "A wrapper for de-duplicating asynchronous requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": "Noah Adams",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^5.7.2"
+  }
+}
