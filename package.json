@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A wrapper for de-duplicating asynchronous requests",
   "main": "index.js",
+  "repository": "https://github.com/noahadams/singleflight.git",
   "scripts": {
     "test": "tap test/*.js"
   },
