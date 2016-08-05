@@ -4,7 +4,7 @@
 
 Singleflight allows you to simply wrap asynchronous functions of the form
 `function(key, callback)` where key is a single string argument and callback
-can be of any form.
+can be a function of any signature.
 
 ### Usage
 
